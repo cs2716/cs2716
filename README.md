@@ -1,16 +1,3 @@
-<!--
-**cs2716/cs2716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
-
 <h3 align="center">👋 Hello! I'm Chris</h3>
 
 <p width="50%" color="blue">
@@ -35,3 +22,4 @@ Here are some ideas to get you started:
 ---
 
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=cs2716.cs2716)
