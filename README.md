@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" media="all" href="markdown_styles.css" />
 
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **cs2716/cs2716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
