@@ -1,3 +1,8 @@
 div.c {
   width: 35%;
 }
+
+div.test {
+  width: 35%;
+  border: 1px solid black;
+}
