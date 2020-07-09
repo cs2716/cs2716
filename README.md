@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <!-- <div class="c"> -->
 <!-- div style="width: 50px; margin: auto; color: blue;" color="blue"> -->
-<div color="blue">
+<div align="right">
      I recently graduated from Imperial College London with an MSci in Mathematics, where I specialised in computation and statisics, including writing my Masters Thesis on exploration/ active learning in reinforcement learning.
 </div>
 
