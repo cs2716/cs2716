@@ -17,9 +17,13 @@ Here are some ideas to get you started:
 
 <h3 align="center">👋 Hello! I'm Chris</h3>
 
-<div style="width: 50px">
+<!-- <div style="width: 50px"> -->
+<div class="c">
      I recently graduated from Imperial College London with an MSci in Mathematics, where I specialised in computation and statisics, including writing my Masters Thesis on exploration/ active learning in reinforcement learning.
 </div>
+
+
+
 
 <p align="center">
 <!--   <a href="https://jasonet.co">Blog</a> • -->
