@@ -18,12 +18,10 @@ Here are some ideas to get you started:
 <h3 align="center">👋 Hello! I'm Chris</h3>
 
 <!-- <div class="c"> -->
-<div style="width: 50px; margin: auto; color: blue;">
+<!-- div style="width: 50px; margin: auto; color: blue;" color="blue"> -->
+<div color="blue">
      I recently graduated from Imperial College London with an MSci in Mathematics, where I specialised in computation and statisics, including writing my Masters Thesis on exploration/ active learning in reinforcement learning.
 </div>
-
-<h1 style="color:blue;text-align:center">This is a header</h1>
-<p style="color:green">This is a paragraph.</p>
 
 
 <p align="center">
