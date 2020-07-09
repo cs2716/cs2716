@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <!--   <a href="https://jasonet.co">Blog</a> • -->
+    <a href="https://cs2716.github.io">Website</a> •
   <a href="https://www.linkedin.com/in/christopher-smith-969a06149/">LinkedIn</a>
 </p>
 
