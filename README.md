@@ -1,7 +1,3 @@
-<link rel="stylesheet" type="text/css" media="all" href="markdown_styles.css" />
-
-<!-- ### Hi there 👋 -->
-
 <!--
 **cs2716/cs2716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +15,7 @@ Here are some ideas to get you started:
 
 <!-- <div class="c"> -->
 <!-- div style="width: 50px; margin: auto; color: blue;" color="blue"> -->
-<div align="left" width="50%">
+<div align="left" width="50px">
      I recently graduated from Imperial College London with an MSci in Mathematics, where I specialised in computation and statisics, including writing my Masters Thesis on exploration/ active learning in reinforcement learning.
 </div>
 
