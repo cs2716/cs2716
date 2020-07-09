@@ -11,6 +11,23 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+<h3 align="center">👋 Hello! I'm Chris</h3>
+
+<p align="center">
+<!--   <a href="https://jasonet.co">Blog</a> • -->
+  <a href="https://www.linkedin.com/in/christopher-smith-969a06149/">LinkedIn</a>
+</p>
+
+---
+
+##### Blog posts
+
+<!--START_SECTION:posts-->
+* Coming Soon!
+<!--END_SECTION:posts-->
+
+---
+
+
