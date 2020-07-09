@@ -1,5 +1,7 @@
 div.c {
-  width: 35%;
+  margin: auto;
+  width: 50%;
+  text-align: center;
 }
 
 div.test {
