@@ -1,11 +1,6 @@
 <link rel="stylesheet" type="text/css" media="all" href="markdown_styles.css" />
 
-<style>
-     div.test {
-       width: 35%;
-       border: 1px solid black;
-     }
-</style>
+(setq markdown-css-paths '("markdown_styles.css"))
 
 <!-- ### Hi there 👋 -->
 
