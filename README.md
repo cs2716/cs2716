@@ -1,7 +1,5 @@
 <link rel="stylesheet" type="text/css" media="all" href="markdown_styles.css" />
 
-(setq markdown-css-paths '("markdown_styles.css"))
-
 <!-- ### Hi there 👋 -->
 
 <!--
@@ -19,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">👋 Hello! I'm Chris</h3>
 
-<div class="test">
+<div class="test" style="font-family:verdana">
      I recently graduated from Imperial College London with an MSci in Mathematics, where I specialised in computation and statisics, including writing my Masters Thesis on exploration/ active learning in reinforcement learning.
 </div>
 
