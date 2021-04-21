@@ -15,10 +15,10 @@
 
 ---
 
-##### Blog posts
+<!-- ##### Blog posts -->
 
 <!--START_SECTION:posts-->
-* Coming Soon!
+<!-- * Coming Soon! -->
 <!--END_SECTION:posts-->
 
 ---
