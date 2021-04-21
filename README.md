@@ -4,6 +4,8 @@
 
 <p width="50%" color="blue">
      I recently graduated from Imperial College London with an MSci in Mathematics, where I specialised in computation and statisics, including writing my Masters Thesis on exploration/ active learning in reinforcement learning.
+     <br><br>
+     I am an (incoming) modeling scientist at Quantcast
 </p>
 
 
@@ -21,7 +23,7 @@
 <!-- * Coming Soon! -->
 <!--END_SECTION:posts-->
 
----
+
 
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=cs2716.cs2716) -->
