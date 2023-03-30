@@ -2,10 +2,6 @@
 
 <!-- #### 👋 Hello! I'm [![Generic badge](https://img.shields.io/badge/Chris-Smith-green.svg)](https://shields.io/) -->
 
-<p width="50%" color="blue">
-     I am a Machine Learning Engineer at Quantcast.
-</p>
-
 
 <p align="center">
 <!--   <a href="https://jasonet.co">Blog</a> • -->
